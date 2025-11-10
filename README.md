@@ -54,11 +54,11 @@ Torque requirement for 2 kg
 
 Torque doubles because the weight doubles
 
-Joint 1 2 × 29 ≈ 58 kg·cm
+Joint 1   2 × 29 ≈ 58 kg·cm
 
-Joint 2 2 × 14 ≈ 28 kg·cm
+Joint 2   2 × 14 ≈ 28 kg·cm
 
-Joint 3 2 × 4 ≈ 8 kg·cm
+Joint 3   2 × 4 ≈ 8 kg·cm
 
 Using gear reduction increases the torque but it has negatives for example reduced speed, more friction, and backlash.
 
